@@ -7,4 +7,4 @@ Created on Fri Jan 26 09:26:39 2024
 """
 
 def f(x):
-    return sin(x)
+    return -sin(x)
